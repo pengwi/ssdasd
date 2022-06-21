@@ -1,0 +1,13 @@
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.Form1.resources
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.Properties.Resources.resources
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.csproj.GenerateResource.cache
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.csproj.CoreCompileInputs.cache
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\bin\Debug\Database1.mdf
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\bin\Debug\Database1_log.ldf
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\bin\Debug\УчетКТ.exe.config
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\bin\Debug\УчетКТ.exe
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\bin\Debug\УчетКТ.pdb
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.exe
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.pdb
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.csproj.ResolveComReference.cache
+C:\Users\eveka\OneDrive\Рабочий стол\4к\Диплом\УКТ\УчетКТ\УчетКТ\obj\Debug\УчетКТ.csproj.AssemblyReference.cache
